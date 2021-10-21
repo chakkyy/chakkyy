@@ -1,11 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Carlos Ramirez</h1>
 <h3 align="center">A full stack web developer about to start his career</h3>
-
-<h2 align="center">
-- 🔭 I’m currently working on a e-commerce project for bootcamp Henry
-- 🌱 I’m currently learning mostly Front-End Development
-  </h2>
+<h2 align="center">- 🔭 I’m currently working on a e-commerce project for bootcamp SoyHenry mostly in Front-End Development</h2>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
