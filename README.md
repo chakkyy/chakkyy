@@ -3,7 +3,7 @@
 <h3 align="center">🧙‍♂️ When not coding (rarely), I'm interested in UX/UI Design and Marketing.🧙‍♂️</h3>
 <h4 align="center">I also have so much interest in learning new languages and earn new experiences.</h4>
 
-<h5 align="center">- 📫 How to reach me **cmramirez1996@gmail.com**</h5>
+<h5 align="center">- 📫 How to reach me 👉 cmramirez1996@gmail.com 👈</h5>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
