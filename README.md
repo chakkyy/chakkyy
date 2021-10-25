@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Ramirez</h1>
-<h3 align="center">A passionate FullStack Developer and Photographer from Argentina</h3>
-<h3 align="center">🧙‍♂️ When not coding (rarely), I'm interested in UX/UI Design and Marketing.</h3>
+<h3 align="center">✨A passionate Frontend Developer and Photographer from Argentina✨</h3>
+<h3 align="center">🧙‍♂️ When not coding (rarely), I'm interested in UX/UI Design and Marketing.🧙‍♂️</h3>
 <h4 align="center">I also have so much interest in learning new languages and earn new experiences.</h4>
 
 - 📫 How to reach me **cmramirez1996@gmail.com**
