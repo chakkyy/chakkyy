@@ -3,10 +3,10 @@
 <h3 align="center">🧙‍♂️ When not coding (rarely), I'm interested in UX/UI Design and Marketing.🧙‍♂️</h3>
 <h4 align="center">I also have so much interest in learning new languages and earn new experiences.</h4>
 
-- 📫 How to reach me **cmramirez1996@gmail.com**
+<h5 align="center">- 📫 How to reach me **cmramirez1996@gmail.com**</h5>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlosramirezdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlosramirezdev/" height="30" width="40" /></a>
 </p>
 
