@@ -17,7 +17,7 @@
 <div>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  <span align='left'>
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript #####
 <!-- wi*quL3fcV -->
 
 ```javascript
