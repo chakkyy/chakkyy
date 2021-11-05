@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div>
+<p>
 <p align="left">
   HTML
   <a href="https://www.w3.org/html/" target="_blank">
@@ -191,7 +191,7 @@
     />
   </a>
 </p>
-  </div>
+  </p>
 
 
 
