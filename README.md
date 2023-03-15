@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Ramirez</h1>
-<h3 align="center">✨A passionate Frontend Developer and UX Engineer from Argentina✨</h3>
+<h3 align="center">✨A passionate Frontend Developer and Product Designer from Argentina✨</h3>
 <h3 align="center">🧙‍♂️ When not coding or designing (rarely), I'm interested in Copywriting, Branding and Marketing.🧙‍♂️</h3>
 <h4 align="center">I also have so much interest in learning new languages and earn new experiences.</h4>
 <h5 align="center">- 📫 How to reach me 👉 cmramirez1996@gmail.com 👈</h5>
